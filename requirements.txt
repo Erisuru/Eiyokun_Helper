@@ -1,0 +1,8 @@
+pip install tkinter
+pip install customtkinter
+pip install pyexcel
+pip install pyexcel_xls
+pip install pyexcel_xlsx
+pip install pandas
+pip install openpyxl
+
